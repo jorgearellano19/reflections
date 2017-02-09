@@ -11,7 +11,7 @@ Maybe if we are working in something in our local reposiry, it could be better n
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Branches are a way to have different versions of the project in your computer and works, for example, for making alterations of the main project and test it. Clones are a copy of a repository that you make to a computer, and a fork is a copy that you make from one repository to another, without the need of a computer, is a copy of a repository.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
