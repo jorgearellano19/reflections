@@ -16,7 +16,7 @@ Branches are a way to have different versions of the project in your computer an
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+	If you modify something and you cannot connect to the internet, if you have a copy of the last known state of the project, once you have internet, you can make a Fast-forward merge, because your commit will be reachable.   
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
