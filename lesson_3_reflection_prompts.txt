@@ -26,4 +26,4 @@ Collaborate without a great tool like Git, it would be the things so much harder
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+when you have a merge conflict and you solve with the other person and you don't have that changes in your computer so first you solve then you merge with master, after that you just delete the branch.
